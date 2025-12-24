@@ -35,11 +35,11 @@ const getTypeDescription = (type: string): string => {
     case 'volunteer event':
       return '2 hours per entry';
     case 'volunteer referral':
-      return '2 hours per entry';
+      return '0.5 hours per entry';
     case 'meeting attendance':
       return '1 hour per entry';
     case 'instagram repost':
-      return '1 hour per entry';
+      return '0.5 hours per entry';
     default:
       return 'Hours as specified';
   }
