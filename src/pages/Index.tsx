@@ -49,11 +49,6 @@ const Index = () => {
           />
         )}
 
-        <footer className="mt-6 sm:mt-8 text-center animate-fade-in animation-delay-300">
-          <p className="text-[10px] sm:text-xs text-muted-foreground">
-            If you believe your hours are incorrect, please contact <span className="text-primary font-medium">stemstersmanagement@gmail.com</span>
-          </p>
-        </footer>
       </div>
     </div>
   );
